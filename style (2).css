@@ -1,0 +1,32 @@
+#map {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%;
+    margin-top: 50px;
+    left: 0;
+}
+
+.header {
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+}
+
+.btn {
+    background-color: green;
+}
+
+.circle-icon {
+    background-color: #ff5733;
+    border-radius: 50%;
+    width: 30px; 
+    height: 30px; 
+    display: block;
+    border: 2px solid white;
+    
+}
